@@ -8,3 +8,9 @@ console.log(23);
 
 let firstName = 'Samson';
 console.log(firstName);
+
+let middleName = 'Ayomide';
+console.log(middleName);
+
+let myCrush = 'Pamilerin'
+console.log(myCrush)
