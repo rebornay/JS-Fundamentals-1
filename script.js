@@ -14,3 +14,6 @@ console.log(middleName);
 
 let myCrush = 'Pamilerin'
 console.log(myCrush)
+
+let myFavouriteMovie = 'Lord of the rings'
+console.log(myFavouriteMovie)
