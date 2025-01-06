@@ -17,3 +17,6 @@ console.log(myCrush)
 
 let myFavouriteMovie = 'Lord of the rings'
 console.log(myFavouriteMovie)
+
+let myPhone = 'Tecno'
+console.log(myPhone)
