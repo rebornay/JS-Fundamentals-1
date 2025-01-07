@@ -1,4 +1,4 @@
-let js = 'amazing';
+/*let js = 'amazing';
 
 console.log(40 + 8 + 23 - 10);
 
@@ -20,3 +20,7 @@ console.log(myFavouriteMovie)
 
 let myPhone = 'Tecno'
 console.log(myPhone)
+*/
+
+let javascriptIsFun = true;
+console.log(javascriptIsFun);
