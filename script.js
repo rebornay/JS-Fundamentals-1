@@ -31,3 +31,11 @@ console.log(typeof 'Samson');
 
 javascriptIsFun = 'YES!';
 console.log(typeof javascriptIsFun);
+
+let year;
+console.log(year);
+console.log(typeof year);
+
+year = 2025;
+console.log(typeof year);
+console.log(typeof null);
