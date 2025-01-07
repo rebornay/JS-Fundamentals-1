@@ -22,6 +22,7 @@ let myPhone = 'Tecno'
 console.log(myPhone)
 */
 
+/*
 let javascriptIsFun = true;
 console.log(javascriptIsFun);
 console.log(typeof true);
@@ -39,3 +40,7 @@ console.log(typeof year);
 year = 2025;
 console.log(typeof year);
 console.log(typeof null);
+*/
+
+const birthYear = 2000;
+birthYear = 2001;
