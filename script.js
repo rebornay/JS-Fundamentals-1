@@ -43,4 +43,8 @@ console.log(typeof null);
 */
 
 const birthYear = 2000;
-birthYear = 2001;
+// birthYear = 2001;
+
+var job = 'Programmer';
+job = 'Teacher';
+console.log(job);
