@@ -53,3 +53,11 @@ const now = 2037;
 const ageSamson = now -2000;
 const ageDamilola = now -2006;
 console.log(ageSamson, ageDamilola);
+
+console.log(ageSamson * 2, ageSamson/10, 2**3)
+
+const firstName = 'Samson';
+const middleName = 'Ayomide';
+const lastName = 'Dauda';
+
+console.log(firstName + ' ' + middleName + ' ' + lastName);
