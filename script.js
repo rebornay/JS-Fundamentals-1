@@ -41,10 +41,15 @@ year = 2025;
 console.log(typeof year);
 console.log(typeof null);
 */
-
+/*
 const birthYear = 2000;
 // birthYear = 2001;
 
 var job = 'Programmer';
 job = 'Teacher';
 console.log(job);
+*/
+
+const ageSamson = 2037-2000;
+const ageDamilola = 2037-2006;
+console.log(ageSamson, ageDamilola);
