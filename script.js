@@ -49,7 +49,7 @@ var job = 'Programmer';
 job = 'Teacher';
 console.log(job);
 */
-
-const ageSamson = 2037-2000;
-const ageDamilola = 2037-2006;
+const now = 2037;
+const ageSamson = now -2000;
+const ageDamilola = now -2006;
 console.log(ageSamson, ageDamilola);
