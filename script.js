@@ -67,5 +67,6 @@ const lastName = 'Dauda';
 let x = 10 + 15;
 x += 10 // x = x + 10;
 x *= 4 // x = x * 4;
-x /= 2 // x = x / 2;
+/* x /= 2 // x = x / 2; */
+x++ // x = x + 1;
 console.log(x);
