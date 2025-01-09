@@ -60,4 +60,6 @@ const firstName = 'Samson';
 const middleName = 'Ayomide';
 const lastName = 'Dauda';
 
-console.log(firstName + ' ' + middleName + ' ' + lastName);
+// console.log(firstName + ' ' + middleName + ' ' + lastName);
+
+console.log(typeof firstName);
