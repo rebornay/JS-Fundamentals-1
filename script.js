@@ -65,4 +65,5 @@ const lastName = 'Dauda';
 // console.log(typeof firstName);
 
 let x = 10 + 15;
+x += 10 // x = x + 10;
 console.log(x);
