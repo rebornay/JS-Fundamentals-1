@@ -73,4 +73,5 @@ x-- // x = x - 1;
 // console.log(x);
 
 let y = 5 + 7;
+y += 10;
 console.log(y);
