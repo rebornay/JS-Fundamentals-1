@@ -77,4 +77,5 @@ y += 10;
 y *=4 
 y++
 y--
+y /= 2
 console.log(y);
