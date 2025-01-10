@@ -70,4 +70,7 @@ x *= 4 // x = x * 4;
 /* x /= 2 // x = x / 2; */
 x++ // x = x + 1;
 x-- // x = x - 1; 
-console.log(x);
+// console.log(x);
+
+let y = 5 + 7;
+console.log(y);
