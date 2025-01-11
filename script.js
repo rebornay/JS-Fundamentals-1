@@ -84,5 +84,8 @@ y--
 y /= 2
 console.log(y);
 
+let z = 10 + 10;
+
+console.log(z)
 // Comparison Operators
-console.log(ageSamson > ageDamilola);
+// console.log(ageSamson > ageDamilola);
