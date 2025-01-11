@@ -88,6 +88,7 @@ let z = 10 + 10;
 z += 5 // z = z + 5
 z *= 3 // z = z * 3
 z /= 5 // z = z / 5
+z ++ // z = z + 1
 console.log(z)
 // Comparison Operators
 // console.log(ageSamson > ageDamilola);
