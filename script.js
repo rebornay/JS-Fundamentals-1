@@ -49,6 +49,9 @@ var job = 'Programmer';
 job = 'Teacher';
 console.log(job);
 */
+
+// Math Operators
+
 const now = 2037;
 const ageSamson = now -2000;
 const ageDamilola = now -2006;
@@ -64,6 +67,7 @@ const lastName = 'Dauda';
 
 // console.log(typeof firstName);
 
+// Assignment operators
 let x = 10 + 15;
 x += 10 // x = x + 10;
 x *= 4 // x = x * 4;
@@ -79,3 +83,6 @@ y++
 y--
 y /= 2
 console.log(y);
+
+// Comparison Operators
+console.log(ageSamson > ageDamilola);
