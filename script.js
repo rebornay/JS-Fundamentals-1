@@ -103,3 +103,4 @@ console.log(x, y);
 
 const averageAge = (ageDamilola + ageSamson) / 2
 console.log(ageDamilola, ageSamson, averageAge);
+console.log(ageDamilola, ageSamson, averageAge);
