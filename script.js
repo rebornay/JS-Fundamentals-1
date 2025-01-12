@@ -54,7 +54,7 @@ console.log(job);
 
 const now = 2037;
 const ageSamson = now -2000;
-const ageDamilola = now -2020;
+const ageDamilola = now -2006;
 console.log(ageSamson, ageDamilola);
 
 console.log(ageSamson * 2, ageSamson/10, 2**3)
@@ -68,29 +68,35 @@ const lastName = 'Dauda';
 // console.log(typeof firstName);
 
 // Assignment operators
-let x = 10 + 15;
-x += 10 // x = x + 10;
-x *= 4 // x = x * 4;
-/* x /= 2 // x = x / 2; */
-x++ // x = x + 1;
-x-- // x = x - 1; 
-// console.log(x);
 
-let y = 5 + 7;
-y += 10;
-y *=4 
-y++
-y--
-y /= 2
-console.log(y);
+// let x = 10 + 15;
+// x += 10 // x = x + 10;
+// x *= 4 // x = x * 4;
+// /* x /= 2 // x = x / 2; */
+// x++ // x = x + 1;
+// x-- // x = x - 1; 
 
-let z = 10 + 10;
-z += 5 // z = z + 5
-z *= 3 // z = z * 3
-z /= 5 // z = z / 5
-z ++ // z = z + 1
-z -- // z = z - 1
-console.log(z)
+
+// let y = 5 + 7;
+// y += 10;
+// y *=4 
+// y++
+// y--
+// y /= 2
+// console.log(y);
+
+// let z = 10 + 10;
+// z += 5 // z = z + 5
+// z *= 3 // z = z * 3
+// z /= 5 // z = z / 5
+// z ++ // z = z + 1
+// z -- // z = z - 1
+// console.log(z)
+
 // Comparison Operators
 console.log(ageSamson > ageDamilola);
 console.log(ageDamilola >= 18);
+
+let x, y;
+x = y = 25 - 10 - 5;
+console.log(x, y);
