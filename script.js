@@ -92,4 +92,5 @@ z ++ // z = z + 1
 z -- // z = z - 1
 console.log(z)
 // Comparison Operators
-// console.log(ageSamson > ageDamilola);
+console.log(ageSamson > ageDamilola);
+console.log(ageDamilola >= 18);
